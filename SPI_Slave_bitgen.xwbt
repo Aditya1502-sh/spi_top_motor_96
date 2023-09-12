@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\Divyesh\mix_spi_96\SPI_Slave.ncd
+OUTFILE=D:\Divyesh\mix_spi_96\SPI_Slave.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=D:\Divyesh\mix_spi_96
+LICENSE=WebPack
+USER_INFO=211847159_0_0_350
